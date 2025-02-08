@@ -18,11 +18,11 @@ function Hero() {
       }}
     >
       <h1 style={{ fontSize: '2rem', marginBottom: '1rem', textAlign: 'center' }}>
-        Привет, я fullStack Web разработчик
+        Привет, я Fullstack Web-разработчик
       </h1>
       <p style={{ maxWidth: '600px', textAlign: 'center', marginBottom: '2rem' }}>
         Я — тот, кто сделает твой проект лучшим.<hr></hr>
-        а ещё, я люблю печеньки с молоком
+        А ещё я люблю печеньки с молоком
       </p>
 
       {/* Блок со стеком */}
